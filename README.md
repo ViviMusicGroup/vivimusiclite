@@ -18,21 +18,17 @@
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="./images/1.jpg" width="31%" alt="Screenshot 1"/>
-  <img src="./images/2.jpg" width="31%" alt="Screenshot 2"/>
-  <img src="./images/3.jpg" width="31%" alt="Screenshot 3"/>
+  <img src="./images/1.jpg" width="24%" alt="Screenshot 1"/>
+  <img src="./images/2.jpg" width="24%" alt="Screenshot 2"/>
+  <img src="./images/3.jpg" width="24%" alt="Screenshot 3"/>
+  <img src="./images/4.jpg" width="24%" alt="Screenshot 4"/>
 </div>
 <br/>
 <div align="center">
-  <img src="./images/4.jpg" width="31%" alt="Screenshot 4"/>
-  <img src="./images/5.jpg" width="31%" alt="Screenshot 5"/>
-  <img src="./images/6.jpg" width="31%" alt="Screenshot 6"/>
-</div>
-<br/>
-<div align="center">
-  <img src="./images/7.jpg" width="31%" alt="Screenshot 7"/>
-  <img src="./images/8.jpg" width="31%" alt="Screenshot 8"/>
-  <img src="./images/9.jpg" width="31%" alt="Screenshot 9"/>
+  <img src="./images/5.jpg" width="24%" alt="Screenshot 5"/>
+  <img src="./images/6.jpg" width="24%" alt="Screenshot 6"/>
+  <img src="./images/7.jpg" width="24%" alt="Screenshot 7"/>
+  <img src="./images/8.jpg" width="24%" alt="Screenshot 8"/>
 </div>
 
 ---
