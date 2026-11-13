@@ -1,10 +1,10 @@
 <div align="center">
-    <img src="./app/src/main/ic_launcher-playstore.png" width="120" height="120" style="display: block; margin: 0 auto" alt="ViviMusic Lite Logo"/>
+    <img src="./assets/icon.png" width="120" height="120" style="display: block; margin: 0 auto" alt="ViviMusic Lite Logo"/>
     <h1>ViviMusic Lite</h1>
     <p><strong>A beautiful, fast, and lightweight YouTube Music streaming client for Android.</strong></p>
     <p>Ad-free • Background Playback • Word-Synced Lyrics • Material 3 Expressive • Account Sync</p>
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](./LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Android](https://img.shields.io/badge/Android-7.0%2B-green.svg)](https://developer.android.com)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.1-purple.svg)](https://kotlinlang.org)
 [![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4.svg)](https://developer.android.com/jetpack/compose)
@@ -15,12 +15,28 @@
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+  <img src="./assets/screenshots/1.jpg" width="30%" alt="Home Screen"/>
+  <img src="./assets/screenshots/2.jpg" width="30%" alt="Player Screen"/>
+  <img src="./assets/screenshots/3.jpg" width="30%" alt="Lyrics Screen"/>
+</div>
+<br/>
+<div align="center">
+  <img src="./assets/screenshots/4.jpg" width="30%" alt="Queue Screen"/>
+  <img src="./assets/screenshots/5.jpg" width="30%" alt="Search Screen"/>
+  <img src="./assets/screenshots/6.jpg" width="30%" alt="Settings Screen"/>
+</div>
+
+---
+
 ## 🌟 Highlights
 
 - 🚫 **100% Free & No Ads**: Seamless uninterrupted music streaming without audio or video advertisements.
 - ⚡ **Lightweight & Battery Efficient**: Ultra-lean native Android app built with Jetpack Compose and ExoPlayer.
 - 🔐 **YouTube Music Account Sync**: Optional Google sign-in to sync Liked Songs, Playlists, Subscribed Artists, and listening history.
-- 🎤 **Live Synchronized Lyrics**: Word-by-word feathered karaoke sweep, duet vocals, and instrumental interlude indicators.
+- 🎤 **Live Synchronized Lyrics**: Word-by-word feathered karaoke sweep, duet vocals, and instrumental interlude countdowns.
 - 🎨 **Material 3 Expressive Design**: Fluid animations, dynamic Material You color theming, AMOLED Pure Black, and real-time artwork blur.
 - 🔁 **Smart Autoplay (Infinity Queue)**: Seamlessly discovers and queues similar songs when your playlist ends.
 - 💾 **Full Library & Account Backup**: Export and restore your complete database, favorites, and login session across devices.
@@ -40,7 +56,7 @@
 
 ### 🎨 Modern Visuals & Player Experience
 - **Custom Player Backgrounds**: Choose between **Blur** (crossfading artwork blur engine) or clean **Material** styling.
-- **Apple Music Motion Artwork**: Optional looping animated video album covers (HLS stream via `:motionart`).
+- **Apple Music Motion Artwork**: Optional looping animated video album covers (HLS stream).
 - **Interactive Seekbars**: Apple-style linear expanding progress pill or classic squiggly waveform.
 - **Audio Quality Details**: Detailed bitrates, audio codecs, and format tiers via the *Details & Credits* menu.
 - **Adaptive Layouts**: Full landscape and tablet optimization with dual-pane queue and lyrics view.
@@ -84,23 +100,8 @@ cd vivimusiclite
 
 ---
 
-## 🧩 Project Architecture
-
-| Module | Description |
-|---|---|
-| `:app` | Primary Android application, Compose UI, Player service, and Room SQLite database |
-| `:innertube` | YouTube Music API client, extractor, and response deserializers |
-| `:lyricsprovider` | Unified synchronized and plain lyrics resolver (LRCLIB & KuGou) |
-| `:motionart` | HLS video motion artwork extractor |
-| `:ktor-client-brotli` | Brotli decompression compression engine for Ktor |
-| `:compose-routing` | Navigation and screen routing |
-| `:compose-reordering` | Smooth drag-and-drop reordering utilities |
-| `:compose-persist` | State persistence across screen navigations |
-
----
-
 ## ⚖️ Disclaimer
 
 This project is not affiliated with, authorized, or endorsed by Google LLC, YouTube, Apple Inc., or any of their affiliates. All trademarks, service marks, and company names belong to their respective owners.
 
-Distributed under the [**GNU General Public License v3.0**](./LICENSE).
+Distributed under the [**GNU General Public License v3.0**](https://www.gnu.org/licenses/gpl-3.0).
