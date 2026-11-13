@@ -15,6 +15,11 @@
 
 ---
 
+> [!NOTE]
+> **ViviMusic Lite** is designed with a strict focus on simplicity, speed, and low resource usage. To keep the app ultra-lightweight and clean, **no enhanced or heavy feature additions will be added**. This is intentionally maintained as a pure light version — all bugs, crashes, and playback issues will continue to be actively resolved.
+
+---
+
 ## 📸 Screenshots
 
 <div align="center">
