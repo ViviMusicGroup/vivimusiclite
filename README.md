@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./assets/icon.png" width="120" height="120" style="display: block; margin: 0 auto" alt="ViviMusic Lite Logo"/>
+    <img src="./images/icon.png" width="120" height="120" style="display: block; margin: 0 auto" alt="ViviMusic Lite Logo"/>
     <h1>ViviMusic Lite</h1>
     <p><strong>A beautiful, fast, and lightweight YouTube Music streaming client for Android.</strong></p>
     <p>Ad-free • Background Playback • Word-Synced Lyrics • Material 3 Expressive • Account Sync</p>
@@ -18,15 +18,21 @@
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="./assets/screenshots/1.jpg" width="30%" alt="Home Screen"/>
-  <img src="./assets/screenshots/2.jpg" width="30%" alt="Player Screen"/>
-  <img src="./assets/screenshots/3.jpg" width="30%" alt="Lyrics Screen"/>
+  <img src="./images/1.jpg" width="31%" alt="Screenshot 1"/>
+  <img src="./images/2.jpg" width="31%" alt="Screenshot 2"/>
+  <img src="./images/3.jpg" width="31%" alt="Screenshot 3"/>
 </div>
 <br/>
 <div align="center">
-  <img src="./assets/screenshots/4.jpg" width="30%" alt="Queue Screen"/>
-  <img src="./assets/screenshots/5.jpg" width="30%" alt="Search Screen"/>
-  <img src="./assets/screenshots/6.jpg" width="30%" alt="Settings Screen"/>
+  <img src="./images/4.jpg" width="31%" alt="Screenshot 4"/>
+  <img src="./images/5.jpg" width="31%" alt="Screenshot 5"/>
+  <img src="./images/6.jpg" width="31%" alt="Screenshot 6"/>
+</div>
+<br/>
+<div align="center">
+  <img src="./images/7.jpg" width="31%" alt="Screenshot 7"/>
+  <img src="./images/8.jpg" width="31%" alt="Screenshot 8"/>
+  <img src="./images/9.jpg" width="31%" alt="Screenshot 9"/>
 </div>
 
 ---
